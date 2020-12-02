@@ -1,0 +1,55 @@
+Réponse aux question des lab 
+lab1 et lab2 ) pas de question à repondre à l'ecrit 
+lab3 
+question 
+4 ) total 168
+-rw-r--r-- 1 jo509 jo509    24 Oct  1 05:09 README.md
+-rw-r--r-- 1 jo509 jo509    41 Oct  1 05:09 lightbulb
+-rw-r--r-- 1 jo509 jo509 70438 Oct  1 05:23 answering-machine.txt
+-rw-r--r-- 1 jo509 jo509 81995 Oct  1 05:43 sardar3.txt
+drwxr-xr-x 2 jo509 jo509  4096 Oct  2 00:46 sardar
+
+5) sadar est un pointeur vers un autre fichier il décrit juste son emplacement 
+6)la taille du fichier Microsoft avec la commande du-sh = 36k  
+8) oui il y a un fichier caché lighulb (ls - a)
+31) oui les liens sont facile à identifier il y a une couleur différente 
+32)le lien est mort 
+
+
+lab4
+
+13) on remarque que rien le fichier n'est pas present  
+14) le fichier est présent la mise à jour à été effectué
+15)TKdiff pas de différence 
+16) le patch à bien été mis a jour 
+
+lab5) pas de question à repondre à l'ecrit
+
+lab6) question répondu dans le repertoire lab6 
+
+lab7
+4)-E  on obtient un fichier .i etape du préprocesseur on lis les fichier .c .h 
+  -S preprocesseur c'est la compilation simple on compile nos fichier et on obtient un fichier.S 	en langage assembleur
+  -c  on assemble nos fichier assembleur l'etape de l'assemblage on obtient un fichier binaire .O 
+
+lab8
+5)ranlib sert à creer un index des resources présente dans 
+une bibiiotheque statique grace à cela l'edition des liens sera plus rapide 
+
+lab9
+6)cela marche mais c'est déconséillé 
+7) la variable est vide
+9)Tout marche la compilation est réussi 
+11)/lib/x86_64_linux_gnu
+12)le soname libm.s0.6 , libm-2.27.50
+
+
+
+lab10 
+make : il nous demande de préciser la cible
+
+make install : erreur le fichier ma binaire n'est pas creer 
+make min.o : ca fontionne on génere un fichier .o
+make clear : fonctionne 
+
+
